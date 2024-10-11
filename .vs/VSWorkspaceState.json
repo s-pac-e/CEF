@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cef-project",
+    "\\cef-project\\bazel\\cef",
+    "\\cef-project\\build",
+    "\\cef-project\\build\\third_party",
+    "\\cef-project\\build\\third_party\\cef",
+    "\\cef-project\\build\\third_party\\cef\\cef_binary_129.0.10\u002Bge52707f\u002Bchromium-129.0.6668.71_windows64",
+    "\\cef-project\\build\\third_party\\cef\\cef_binary_129.0.10\u002Bge52707f\u002Bchromium-129.0.6668.71_windows64\\tests",
+    "\\cef-project\\build\\third_party\\cef\\cef_binary_129.0.10\u002Bge52707f\u002Bchromium-129.0.6668.71_windows64\\tests\\cefsimple",
+    "\\cef-project\\tools"
+  ],
+  "SelectedNode": "\\cef-project\\build\\FindPython2Example.sln",
+  "PreviewInSolutionExplorer": false
+}
